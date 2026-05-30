@@ -8,6 +8,14 @@ The big problem that I aimed to address with this design is the difficulty of ch
 
 no flow rate tests, because it will heavily depend on the fans you decide to use.
 
+TODO:
+
+* write a proper bom
+* add assembly instructions
+* update the clip design to not self loosen if turned CCW
+* add design for decorative side panels
+
+
 images:
 
 ![image of air purifier in side profile](./assets/profile.jpg)
